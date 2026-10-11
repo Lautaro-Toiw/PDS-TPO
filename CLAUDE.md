@@ -1,7 +1,7 @@
 # SkillSwap – TP Procesos de Desarrollo de Software
 
 ## Contexto
-Consigna completa en docs/consigna.md. Material de clase en docs/clases/.
+Consigna completa en docs/consignas.pdf. Material de clase en docs/clases/.
 Es un TP académico: el código debe ser explicable por estudiantes.
 Priorizar claridad sobre sofisticación. Nada de patrones "por las dudas".
 
