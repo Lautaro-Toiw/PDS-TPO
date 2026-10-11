@@ -40,3 +40,13 @@ Facade (perfil público). Cada patrón debe tener test que lo demuestre.
 - Búsqueda: JOIN FETCH o proyecciones a DTO (evitar N+1), paginación en todos los listados.
 - Flyway: V1 esquema, V2 índices/constraints, V3 datos demo. Nada de hbm2ddl.
 - Value objects: SkillCoins, FranjaHoraria, UserId, Motivo, Puntaje.
+
+## Modo aprendizaje (obligatorio)
+- Somos estudiantes y debemos defender el código. Avanzar en pasos chicos.
+- Al crear cada clase importante, explicar: qué responsabilidad tiene, qué principio
+  SOLID/GRASP o patrón aplica, y en qué clase de docs/clases/ se vio.
+- Al terminar cada fase, escribir docs/aprendizaje/fase-N.md con:
+  recorrido del flujo principal paso a paso (qué clase llama a cuál),
+  decisiones tomadas y alternativas descartadas,
+  5 preguntas tipo defensa con su respuesta.
+- No usar técnicas que no se vieron en clase sin explicarlas antes.
